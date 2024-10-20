@@ -149,8 +149,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - **Context API**: For simplifying state management across the app.
 ```
 
-### Added Sections:
-- **Goal of the Project**: Outlines the main objective of the project.
-- **Purpose of the Project**: Explains why the project was built, emphasizing value, learning, and practical implementation.
-
-This structure enhances the clarity and professionalism of your project documentation.
